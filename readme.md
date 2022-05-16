@@ -1,5 +1,5 @@
 
-### Ola! Welcome to NewWellLandCity ### =D
+### Ola! Welcome to NewWellLandCity ### 
 
 
-## Todos os meus arquivos relacionados a JavaScript vão ser adicionados nessa page.
+## Todos os meus arquivos relacionados a JavaScript vão ser adicionados nessa page.😍
